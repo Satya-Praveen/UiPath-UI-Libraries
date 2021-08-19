@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9ywE9VN7rka_wezce7dSeA",
+  "Reference": "yiX1n5EvwEas2WMt9gSh-g/9ywE9VN7rka_wezce7dSeA",
+  "ParentRef": "yiX1n5EvwEas2WMt9gSh-g/_P3o_sqTiUettGcxjem--g",
+  "Name": "Input-Forms-Screen",
+  "Description": "Dynamic forms screen",
+  "Type": "Screen",
+  "Created": "2021-08-19T07:19:03.8870634Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-08-19T07:19:03.8870634Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

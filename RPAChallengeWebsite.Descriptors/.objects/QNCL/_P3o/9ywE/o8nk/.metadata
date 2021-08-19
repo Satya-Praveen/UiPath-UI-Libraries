@@ -1,0 +1,17 @@
+﻿{
+  "Id": "o8nkwjRw5EO0GQzIkCSmmw",
+  "Reference": "yiX1n5EvwEas2WMt9gSh-g/o8nkwjRw5EO0GQzIkCSmmw",
+  "ParentRef": "yiX1n5EvwEas2WMt9gSh-g/9ywE9VN7rka_wezce7dSeA",
+  "Name": "FirstName-Element",
+  "Description": "Selector for First Name Textbox",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-08-19T07:19:04.1423431Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-08-19T07:19:04.1423431Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

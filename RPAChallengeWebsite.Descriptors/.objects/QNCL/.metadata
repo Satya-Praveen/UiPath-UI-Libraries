@@ -1,0 +1,12 @@
+﻿{
+  "Id": "QNCL96BCYkiMj17TsAOAyw",
+  "Reference": "yiX1n5EvwEas2WMt9gSh-g/QNCL96BCYkiMj17TsAOAyw",
+  "Name": "RPAChallengeWebsite",
+  "Description": "Object repo for Rpa website having forms ",
+  "Type": "App",
+  "Created": "2021-08-19T07:19:03.6960641Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-08-19T07:19:03.6960641Z"
+}
